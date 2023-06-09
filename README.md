@@ -1,2 +1,2 @@
 # teaching
-Teaching material
+Material used for PhD-level sessions
